@@ -1,5 +1,5 @@
 // Filename: class.scrambler.h
-// Author:   Patryk Po³eæ
+// Author:   Patryk PoÅ‚eÄ‡
 
 #pragma once
 
